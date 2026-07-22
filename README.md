@@ -84,4 +84,5 @@ https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-d
 
 Business Intelligence Analyst | Power BI Developer
 
-- LinkedIn: www.linkedin.com/in/mehmet-ateş-993007233
+- LinkedIn: https://www.linkedin.com/in/mehmet-ateş-993007233
+- GitHub: https://github.com/mehmetatesbi
